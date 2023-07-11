@@ -8,4 +8,4 @@
 
 https://youtu.be/5JHNxIwLsIg
 
-![SCREENSHOT](/Screenshot 2023-07-12 at 3.55.54 AM)
+![SCREENSHOT](/Screenshot 2023-07-12 at 3.55.54 AM.png)
