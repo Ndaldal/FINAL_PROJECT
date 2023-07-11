@@ -8,4 +8,4 @@
 
 https://youtu.be/5JHNxIwLsIg
 
-![SCREENSHOT](/Screenshot 2023-07-12 at 3.55.54 AM.png)
+![SCREENSHOT]([/Screenshot 2023-07-12 at 3.55.54 AM.png](https://github.com/Ndaldal/FINAL_PROJECT/blob/main/Screenshot%202023-07-12%20at%203.55.17%20AM.png))
